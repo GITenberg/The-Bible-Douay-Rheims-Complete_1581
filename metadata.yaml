@@ -1,0 +1,27 @@
+_repo: The-Bible-Douay-Rheims-Complete_1581
+_version: 0.0.1
+description: See also Complete version (vol I-III without Appendices) PG#8300 and
+  OT (vol I) PG#1609 and OT (vol II) PG#1610 and NT (vol III) PG#1582
+edition_note: Challoner's revised Douay-Rheims Version (Old Testament 1609 & 1610,
+  New Testament 1582). The Whole Revised and Diligently Compared with the Latin Vulgate
+  by Bishop Richard Challoner A.D. 1749-1752
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1581'
+language: en
+publication_note: Catholic Software
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible'
+- GITenberg
+tableOfContents: "The Old Testament (Vol I-II Books) \r\nThe New Testament (Vol III\
+  \ Books)\r\nAppendices:\r\nThe Prayer of Manasses\r\nThe Third Booke of Esdras\r\
+  \nThe Fourth Booke of Esdras\r\nThe Prophecie of Abdias\r\nThe Catholike Epistle\
+  \ of Iude the Apostle\r\nThe Preface to the Reader (selection from 1582)\r\nHard\
+  \ Wordes Explicated."
+title: The Bible, Douay-Rheims, Complete
+url: http://www.gutenberg.org/ebooks/1581
